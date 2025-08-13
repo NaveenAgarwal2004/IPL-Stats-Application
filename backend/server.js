@@ -18,30 +18,28 @@ const PORT = process.env.PORT || 3001; // Changed to match frontend expectations
 const WEATHER_API_KEY = process.env.WEATHER_API_KEY || 'c29d950f171498cce7945b9afbf6cb51';
 const CRIC_API_KEY = process.env.CRIC_API_KEY || '16ec677f-4c4c-4068-bd17-54ff6a683465';
 
-// Enhanced CORS configuration
-const corsOptions = {
-  origin: function (origin, callback) {
-    const allowedOrigins = process.env.NODE_ENV === 'production' 
-      ? (process.env.CORS_ORIGIN || process.env.FRONTEND_URL || 'https://ipl-stats-application.vercel.app').split(',').map(url => url.trim())
-      : ['http://localhost:5173', 'http://localhost:3000', 'http://localhost:5000'];
-    
-    // Allow requests with no origin (like mobile apps or curl requests)
-    if (!origin) return callback(null, true);
-    
-    if (allowedOrigins.indexOf(origin) !== -1) {
-      callback(null, true);
-    } else {
-      console.log(`CORS blocked origin: ${origin}`);
-      callback(new Error('Not allowed by CORS'));
-    }
-  },
-  credentials: true,
+// Enhanced CORS configuration - Allow all origins for production
+app.use(cors({
+  origin: '*',
+  credentials: false,
   optionsSuccessStatus: 200,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With']
-};
+  allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With', 'Origin', 'Accept']
+}));
 
-app.use(cors(corsOptions));
+// Add explicit CORS headers middleware
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
+  
+  // Handle preflight requests
+  if (req.method === 'OPTIONS') {
+    res.sendStatus(200);
+  } else {
+    next();
+  }
+});
 
 app.use(express.json());
 app.use(express.static('public'));
