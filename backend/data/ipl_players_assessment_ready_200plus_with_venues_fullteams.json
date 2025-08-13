@@ -1,0 +1,1802 @@
+[
+  {
+    "name":"Arshdeep Singh",
+    "team":"PK",
+    "role":"Batsman",
+    "matches":14,
+    "runs":0,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Kumar Kartikeya Singh",
+    "team":"Mumbai Indians",
+    "role":"Batsman",
+    "matches":4,
+    "runs":3,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Suyash Sharma",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Tim David",
+    "team":"Mumbai Indians",
+    "role":"Bowler",
+    "matches":9,
+    "runs":187,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Umran Malik",
+    "team":"Sunrisers Hyderabad",
+    "role":"Bowler",
+    "matches":15,
+    "runs":10,
+    "wickets":18,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Fabian Allen",
+    "team":"Mumbai Indians",
+    "role":"All-rounder",
+    "matches":5,
+    "runs":14,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Odean Smith",
+    "team":"PK",
+    "role":"All-rounder",
+    "matches":6,
+    "runs":51,
+    "wickets":0,
+    "venue":"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad"
+  },
+  {
+    "name":"Marcus Stoinis",
+    "team":"Lucknow Super Giants",
+    "role":"All-rounder",
+    "matches":15,
+    "runs":450,
+    "wickets":12,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Prerak Mankad",
+    "team":"PK",
+    "role":"All-rounder",
+    "matches":1,
+    "runs":4,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Aaron Hardie",
+    "team":"Unknown Team",
+    "role":"All-rounder",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Hrithik Shokeen",
+    "team":"Mumbai Indians",
+    "role":"Bowler",
+    "matches":5,
+    "runs":43,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Manan Vohra",
+    "team":"Lucknow Super Giants",
+    "role":"Wicketkeeper",
+    "matches":12,
+    "runs":350,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Mitchell Starc",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":9,
+    "wickets":17,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Marco Jansen",
+    "team":"Sunrisers Hyderabad",
+    "role":"Bowler",
+    "matches":10,
+    "runs":9,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Rahul Tewatia",
+    "team":"Rajasthan Royals",
+    "role":"Batsman",
+    "matches":14,
+    "runs":350,
+    "wickets":15,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Vipraj Nigam",
+    "team":"Unknown Team",
+    "role":"All-rounder",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"MS Dhoni",
+    "team":"Chennai Super Kings",
+    "role":"Wicketkeeper",
+    "matches":16,
+    "runs":580,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Dwayne Bravo",
+    "team":"Chennai Super Kings",
+    "role":"Batsman",
+    "matches":14,
+    "runs":400,
+    "wickets":15,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Rishabh Pant",
+    "team":"Delhi Capitals",
+    "role":"Wicketkeeper",
+    "matches":15,
+    "runs":680,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Fazalhaq Farooqi",
+    "team":"Sunrisers Hyderabad",
+    "role":"Bowler",
+    "matches":3,
+    "runs":0,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Tilak Varma",
+    "team":"Mumbai Indians",
+    "role":"All-rounder",
+    "matches":14,
+    "runs":397,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Axar Patel",
+    "team":"Delhi Capitals",
+    "role":"Bowler",
+    "matches":16,
+    "runs":380,
+    "wickets":22,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Kagiso Rabada",
+    "team":"Delhi Capitals",
+    "role":"All-rounder",
+    "matches":15,
+    "runs":20,
+    "wickets":24,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Dinesh Karthik",
+    "team":"Royal Challengers Bangalore",
+    "role":"All-rounder",
+    "matches":13,
+    "runs":300,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Manoj Bhandage",
+    "team":"Unknown Team",
+    "role":"All-rounder",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Srikar Bharat",
+    "team":"Delhi Capitals",
+    "role":"Wicketkeeper",
+    "matches":10,
+    "runs":199,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Sunil Narine",
+    "team":"Unknown Team",
+    "role":"Bowler",
+    "matches":0,
+    "runs":488,
+    "wickets":17,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Washington Sundar",
+    "team":"Royal Challengers Bangalore",
+    "role":"Bowler",
+    "matches":16,
+    "runs":400,
+    "wickets":18,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Anmolpreet Singh",
+    "team":"Mumbai Indians",
+    "role":"Wicketkeeper",
+    "matches":3,
+    "runs":29,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Ripal Patel",
+    "team":"Delhi Capitals",
+    "role":"Bowler",
+    "matches":4,
+    "runs":31,
+    "wickets":0,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Matheesha Pathirana",
+    "team":"Chennai Super Kings",
+    "role":"Bowler",
+    "matches":2,
+    "runs":0,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"B Indrajith",
+    "team":"Kolkata Knight Riders",
+    "role":"Batsman",
+    "matches":3,
+    "runs":21,
+    "wickets":0,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Mayank Agarwal",
+    "team":"Punjab Kings",
+    "role":"All-rounder",
+    "matches":16,
+    "runs":640,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Harshal Patel",
+    "team":"Royal Challengers Bangalore",
+    "role":"Bowler",
+    "matches":16,
+    "runs":40,
+    "wickets":20,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Anukul Roy",
+    "team":"Kolkata Knight Riders",
+    "role":"Batsman",
+    "matches":3,
+    "runs":0,
+    "wickets":0,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Abishek Porel",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":327,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Shahrukh Khan",
+    "team":"Punjab Kings",
+    "role":"All-rounder",
+    "matches":12,
+    "runs":220,
+    "wickets":8,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Arshin Kulkarni",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":9,
+    "wickets":0,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Phil Salt",
+    "team":"Unknown Team",
+    "role":"All-rounder",
+    "matches":0,
+    "runs":435,
+    "wickets":0,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Harpreet Brar",
+    "team":"PK",
+    "role":"All-rounder",
+    "matches":15,
+    "runs":106,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Devdutt Padikkal",
+    "team":"Royal Challengers Bangalore",
+    "role":"All-rounder",
+    "matches":15,
+    "runs":620,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Anuj Rawat",
+    "team":"Rajasthan Royals",
+    "role":"Bowler",
+    "matches":13,
+    "runs":350,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Sean Abbott",
+    "team":"Sunrisers Hyderabad",
+    "role":"Wicketkeeper",
+    "matches":3,
+    "runs":22,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Josh Inglis",
+    "team":"Unknown Team",
+    "role":"All-rounder",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Sherfane Rutherford",
+    "team":"Mumbai Indians",
+    "role":"Batsman",
+    "matches":10,
+    "runs":106,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Kuldeep Yadav",
+    "team":"Delhi Capitals",
+    "role":"Batsman",
+    "matches":14,
+    "runs":15,
+    "wickets":17,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Shubman Gill",
+    "team":"Gujarat Titans",
+    "role":"Batsman",
+    "matches":16,
+    "runs":720,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Himmat Singh",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Tristan Stubbs",
+    "team":"Mumbai Indians",
+    "role":"Batsman",
+    "matches":2,
+    "runs":2,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Ruturaj Gaikwad",
+    "team":"Chennai Super Kings",
+    "role":"Batsman",
+    "matches":16,
+    "runs":680,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Dwaine Pretorius",
+    "team":"Chennai Super Kings",
+    "role":"Batsman",
+    "matches":6,
+    "runs":44,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Sai Kishore",
+    "team":"Gujarat Titans",
+    "role":"All-rounder",
+    "matches":5,
+    "runs":0,
+    "wickets":0,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Rohit Sharma",
+    "team":"Mumbai Indians",
+    "role":"Batsman",
+    "matches":16,
+    "runs":700,
+    "wickets":0,
+    "venue":"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad"
+  },
+  {
+    "name":"Mukesh Choudhary",
+    "team":"Chennai Super Kings",
+    "role":"Bowler",
+    "matches":13,
+    "runs":0,
+    "wickets":0,
+    "venue":"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad"
+  },
+  {
+    "name":"Mitchell Santner",
+    "team":"Chennai Super Kings",
+    "role":"Bowler",
+    "matches":12,
+    "runs":54,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Suyash S Prabhudessai",
+    "team":"Royal Challengers Bangalore",
+    "role":"Wicketkeeper",
+    "matches":5,
+    "runs":67,
+    "wickets":0,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Sandeep Sharma",
+    "team":"Punjab Kings",
+    "role":"Batsman",
+    "matches":14,
+    "runs":15,
+    "wickets":14,
+    "venue":"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad"
+  },
+  {
+    "name":"Ramandeep Singh",
+    "team":"Mumbai Indians",
+    "role":"Bowler",
+    "matches":5,
+    "runs":45,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Vyshak Vijay Kumar",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":1,
+    "wickets":4,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Nicholas Pooran",
+    "team":"Punjab Kings",
+    "role":"Wicketkeeper",
+    "matches":14,
+    "runs":510,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Donovan Ferreira",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":8,
+    "wickets":0,
+    "venue":"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad"
+  },
+  {
+    "name":"Pat Cummins",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":136,
+    "wickets":18,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Devon Conway",
+    "team":"Chennai Super Kings",
+    "role":"Bowler",
+    "matches":7,
+    "runs":252,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Jofra Archer",
+    "team":"Unknown Team",
+    "role":"Bowler",
+    "matches":0,
+    "runs":113,
+    "wickets":20,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Avesh Khan",
+    "team":"Lucknow Super Giants",
+    "role":"All-rounder",
+    "matches":16,
+    "runs":10,
+    "wickets":19,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Liam Livingstone",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":111,
+    "wickets":3,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Nitish Kumar Reddy",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":303,
+    "wickets":3,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Bhuvneshwar Kumar",
+    "team":"Sunrisers Hyderabad",
+    "role":"Bowler",
+    "matches":16,
+    "runs":20,
+    "wickets":22,
+    "venue":"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad"
+  },
+  {
+    "name":"Anrich Nortje",
+    "team":"Delhi Capitals",
+    "role":"Bowler",
+    "matches":15,
+    "runs":10,
+    "wickets":18,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Matthew Wade",
+    "team":"Gujarat Titans",
+    "role":"All-rounder",
+    "matches":13,
+    "runs":179,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Shreyas Iyer",
+    "team":"Delhi Capitals",
+    "role":"Wicketkeeper",
+    "matches":16,
+    "runs":620,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Akash Deep",
+    "team":"Royal Challengers Bangalore",
+    "role":"Batsman",
+    "matches":5,
+    "runs":0,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Lockie Ferguson",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":1,
+    "wickets":9,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Nathan Ellis",
+    "team":"PK",
+    "role":"Wicketkeeper",
+    "matches":5,
+    "runs":0,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Hardik Pandya",
+    "team":"Gujarat Titans",
+    "role":"All-rounder",
+    "matches":15,
+    "runs":480,
+    "wickets":15,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Anuj Rawat",
+    "team":"Royal Challengers Bangalore",
+    "role":"Bowler",
+    "matches":10,
+    "runs":129,
+    "wickets":0,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Chetan Sakariya",
+    "team":"Delhi Capitals",
+    "role":"Batsman",
+    "matches":17,
+    "runs":0,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Jagadeesan Narayan",
+    "team":"Chennai Super Kings",
+    "role":"All-rounder",
+    "matches":7,
+    "runs":73,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Rasikh Salam",
+    "team":"Kolkata Knight Riders",
+    "role":"Wicketkeeper",
+    "matches":3,
+    "runs":0,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Alzarri Joseph",
+    "team":"Gujarat Titans",
+    "role":"Batsman",
+    "matches":14,
+    "runs":10,
+    "wickets":17,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Jayant Yadav",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"David Warner",
+    "team":"Delhi Capitals",
+    "role":"Batsman",
+    "matches":16,
+    "runs":730,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Jitesh Sharma",
+    "team":"PK",
+    "role":"Batsman",
+    "matches":12,
+    "runs":234,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Ryan Rickelton",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Kane Williamson",
+    "team":"Sunrisers Hyderabad",
+    "role":"Wicketkeeper",
+    "matches":15,
+    "runs":610,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Deepak Hooda",
+    "team":"Lucknow Super Giants",
+    "role":"Wicketkeeper",
+    "matches":14,
+    "runs":420,
+    "wickets":10,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Trent Boult",
+    "team":"Rajasthan Royals",
+    "role":"Bowler",
+    "matches":16,
+    "runs":30,
+    "wickets":25,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Shahbaz Ahamad",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":215,
+    "wickets":7,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Shimron Hetmyer",
+    "team":"Delhi Capitals",
+    "role":"Wicketkeeper",
+    "matches":14,
+    "runs":550,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Harshit Rana",
+    "team":"Kolkata Knight Riders",
+    "role":"Wicketkeeper",
+    "matches":2,
+    "runs":0,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"KL Rahul",
+    "team":"Lucknow Super Giants",
+    "role":"Batsman",
+    "matches":16,
+    "runs":680,
+    "wickets":0,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Prithvi Shaw",
+    "team":"Delhi Capitals",
+    "role":"All-rounder",
+    "matches":14,
+    "runs":560,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Dushmantha Chameera",
+    "team":"Lucknow Super Giants",
+    "role":"Batsman",
+    "matches":12,
+    "runs":0,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Suryakumar Yadav",
+    "team":"Mumbai Indians",
+    "role":"Batsman",
+    "matches":16,
+    "runs":650,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Digvesh Singh",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Yuzvendra Chahal",
+    "team":"Royal Challengers Bangalore",
+    "role":"Bowler",
+    "matches":16,
+    "runs":10,
+    "wickets":24,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Shaik Rasheed",
+    "team":"Unknown Team",
+    "role":"Bowler",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Rinku Singh",
+    "team":"Kolkata Knight Riders",
+    "role":"All-rounder",
+    "matches":17,
+    "runs":251,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Rajangad Bawa",
+    "team":"PK",
+    "role":"Bowler",
+    "matches":2,
+    "runs":11,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Bhanuka Rajapaksa",
+    "team":"PK",
+    "role":"Wicketkeeper",
+    "matches":9,
+    "runs":206,
+    "wickets":0,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Yash Dayal",
+    "team":"Gujarat Titans",
+    "role":"Wicketkeeper",
+    "matches":9,
+    "runs":0,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Mustafizur Rahman",
+    "team":"Rajasthan Royals",
+    "role":"All-rounder",
+    "matches":14,
+    "runs":10,
+    "wickets":18,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Abhinav Manohar",
+    "team":"Gujarat Titans",
+    "role":"Wicketkeeper",
+    "matches":10,
+    "runs":320,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Kulwant Khejroliya",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":0,
+    "wickets":1,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Kieron Pollard",
+    "team":"Mumbai Indians",
+    "role":"Wicketkeeper",
+    "matches":15,
+    "runs":480,
+    "wickets":10,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Sheldon Jackson",
+    "team":"Kolkata Knight Riders",
+    "role":"All-rounder",
+    "matches":9,
+    "runs":61,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Rahul Tewatia",
+    "team":"Gujarat Titans",
+    "role":"Batsman",
+    "matches":14,
+    "runs":350,
+    "wickets":15,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Mahipal Lomror",
+    "team":"Royal Challengers Bangalore",
+    "role":"All-rounder",
+    "matches":18,
+    "runs":267,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Corbin Bosch",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Angkrish Raghuvanshi",
+    "team":"Unknown Team",
+    "role":"Bowler",
+    "matches":0,
+    "runs":163,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Tymal Mills",
+    "team":"Mumbai Indians",
+    "role":"Bowler",
+    "matches":10,
+    "runs":0,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Ayush Badoni",
+    "team":"Lucknow Super Giants",
+    "role":"All-rounder",
+    "matches":13,
+    "runs":161,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Mohsin Khan",
+    "team":"Lucknow Super Giants",
+    "role":"All-rounder",
+    "matches":9,
+    "runs":0,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Riley Meredith",
+    "team":"Mumbai Indians",
+    "role":"Batsman",
+    "matches":13,
+    "runs":0,
+    "wickets":0,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Tushar Deshpande",
+    "team":"Chennai Super Kings",
+    "role":"Wicketkeeper",
+    "matches":7,
+    "runs":0,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Andre Russell",
+    "team":"Kolkata Knight Riders",
+    "role":"All-rounder",
+    "matches":16,
+    "runs":520,
+    "wickets":20,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Ishan Kishan",
+    "team":"Mumbai Indians",
+    "role":"Wicketkeeper",
+    "matches":15,
+    "runs":700,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Yashasvi Jaiswal",
+    "team":"Rajasthan Royals",
+    "role":"Batsman",
+    "matches":15,
+    "runs":720,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Eoin Morgan",
+    "team":"Kolkata Knight Riders",
+    "role":"Bowler",
+    "matches":14,
+    "runs":480,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Ravindra Jadeja",
+    "team":"Chennai Super Kings",
+    "role":"All-rounder",
+    "matches":15,
+    "runs":450,
+    "wickets":20,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Abhijeet Tomar",
+    "team":"Kolkata Knight Riders",
+    "role":"All-rounder",
+    "matches":1,
+    "runs":4,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Sai Sudharsan",
+    "team":"Gujarat Titans",
+    "role":"All-rounder",
+    "matches":12,
+    "runs":400,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Faf du Plessis",
+    "team":"Royal Challengers Bangalore",
+    "role":"All-rounder",
+    "matches":14,
+    "runs":600,
+    "wickets":0,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Rahul Chahar",
+    "team":"Mumbai Indians",
+    "role":"Batsman",
+    "matches":15,
+    "runs":20,
+    "wickets":18,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Mohammed Siraj",
+    "team":"Royal Challengers Bangalore",
+    "role":"Bowler",
+    "matches":15,
+    "runs":30,
+    "wickets":18,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Prashant Solanki",
+    "team":"Chennai Super Kings",
+    "role":"Batsman",
+    "matches":2,
+    "runs":0,
+    "wickets":0,
+    "venue":"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad"
+  },
+  {
+    "name":"Kuldeep Sen",
+    "team":"Rajasthan Royals",
+    "role":"Bowler",
+    "matches":7,
+    "runs":0,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Shahbaz Ahmed",
+    "team":"Royal Challengers Bangalore",
+    "role":"Bowler",
+    "matches":14,
+    "runs":280,
+    "wickets":15,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Rashid Khan",
+    "team":"Gujarat Titans",
+    "role":"Wicketkeeper",
+    "matches":16,
+    "runs":35,
+    "wickets":22,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Ashwani Kumar",
+    "team":"Unknown Team",
+    "role":"All-rounder",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Jasprit Bumrah",
+    "team":"Mumbai Indians",
+    "role":"Bowler",
+    "matches":16,
+    "runs":20,
+    "wickets":25,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Mayank Markande",
+    "team":"Mumbai Indians",
+    "role":"Batsman",
+    "matches":20,
+    "runs":0,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Yuzvendra Chahal",
+    "team":"Rajasthan Royals",
+    "role":"Bowler",
+    "matches":15,
+    "runs":25,
+    "wickets":20,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Vijay Shankar",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":83,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Shivam Dube",
+    "team":"Punjab Kings",
+    "role":"Batsman",
+    "matches":14,
+    "runs":480,
+    "wickets":15,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Tim Seifert",
+    "team":"Kolkata Knight Riders",
+    "role":"Wicketkeeper",
+    "matches":3,
+    "runs":26,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Ravichandran Ashwin",
+    "team":"Rajasthan Royals",
+    "role":"Bowler",
+    "matches":15,
+    "runs":390,
+    "wickets":24,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Rahul Chahar",
+    "team":"Punjab Kings",
+    "role":"Batsman",
+    "matches":15,
+    "runs":15,
+    "wickets":18,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Shivam Mavi",
+    "team":"Gujarat Titans",
+    "role":"Batsman",
+    "matches":14,
+    "runs":15,
+    "wickets":18,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Glenn Maxwell",
+    "team":"Royal Challengers Bangalore",
+    "role":"Bowler",
+    "matches":15,
+    "runs":520,
+    "wickets":12,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Obed McCoy",
+    "team":"Rajasthan Royals",
+    "role":"Bowler",
+    "matches":12,
+    "runs":15,
+    "wickets":10,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Ishant Sharma",
+    "team":"Delhi Capitals",
+    "role":"Batsman",
+    "matches":14,
+    "runs":5,
+    "wickets":17,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Andre Siddarth",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"David Willey",
+    "team":"Royal Challengers Bangalore",
+    "role":"All-rounder",
+    "matches":7,
+    "runs":18,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Rovman Powell",
+    "team":"Delhi Capitals",
+    "role":"Batsman",
+    "matches":14,
+    "runs":250,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Daniel Sams",
+    "team":"Mumbai Indians",
+    "role":"Bowler",
+    "matches":16,
+    "runs":44,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Venkatesh Iyer",
+    "team":"Unknown Team",
+    "role":"Bowler",
+    "matches":0,
+    "runs":370,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Karan Sharma",
+    "team":"Lucknow Super Giants",
+    "role":"Batsman",
+    "matches":1,
+    "runs":4,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Maheesh Theekshana",
+    "team":"Chennai Super Kings",
+    "role":"Batsman",
+    "matches":9,
+    "runs":0,
+    "wickets":0,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Tripurana Vijay",
+    "team":"Unknown Team",
+    "role":"Bowler",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Jos Buttler",
+    "team":"Rajasthan Royals",
+    "role":"Wicketkeeper",
+    "matches":16,
+    "runs":900,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Nitish Rana",
+    "team":"Unknown Team",
+    "role":"Bowler",
+    "matches":0,
+    "runs":42,
+    "wickets":0,
+    "venue":"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad"
+  },
+  {
+    "name":"Spencer Johnson",
+    "team":"Unknown Team",
+    "role":"All-rounder",
+    "matches":0,
+    "runs":6,
+    "wickets":4,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Daryl Mitchell",
+    "team":"Rajasthan Royals",
+    "role":"Bowler",
+    "matches":2,
+    "runs":33,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Prabhsimran Singh",
+    "team":"PK",
+    "role":"Batsman",
+    "matches":6,
+    "runs":64,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"David Warner",
+    "team":"Sunrisers Hyderabad",
+    "role":"Batsman",
+    "matches":16,
+    "runs":670,
+    "wickets":0,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Prasidh Krishna",
+    "team":"Delhi Capitals",
+    "role":"Wicketkeeper",
+    "matches":13,
+    "runs":5,
+    "wickets":15,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Krunal Pandya",
+    "team":"Lucknow Super Giants",
+    "role":"All-rounder",
+    "matches":15,
+    "runs":400,
+    "wickets":14,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Sandeep Sharma",
+    "team":"Lucknow Super Giants",
+    "role":"Batsman",
+    "matches":15,
+    "runs":10,
+    "wickets":21,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Deepak Chahar",
+    "team":"Chennai Super Kings",
+    "role":"Batsman",
+    "matches":16,
+    "runs":25,
+    "wickets":18,
+    "venue":"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad"
+  },
+  {
+    "name":"Sanju Samson",
+    "team":"Rajasthan Royals",
+    "role":"Wicketkeeper",
+    "matches":16,
+    "runs":670,
+    "wickets":0,
+    "venue":"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad"
+  },
+  {
+    "name":"Arshdeep Singh",
+    "team":"Punjab Kings",
+    "role":"Wicketkeeper",
+    "matches":15,
+    "runs":10,
+    "wickets":16,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Shashank Singh",
+    "team":"Sunrisers Hyderabad",
+    "role":"Bowler",
+    "matches":10,
+    "runs":69,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Virat Kohli",
+    "team":"Royal Challengers Bangalore",
+    "role":"Batsman",
+    "matches":16,
+    "runs":750,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Rassie van der Dussen",
+    "team":"Rajasthan Royals",
+    "role":"All-rounder",
+    "matches":3,
+    "runs":22,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"B. Sai Sudharsan",
+    "team":"Unknown Team",
+    "role":"All-rounder",
+    "matches":0,
+    "runs":527,
+    "wickets":0,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Quinton de Kock",
+    "team":"Lucknow Super Giants",
+    "role":"Wicketkeeper",
+    "matches":16,
+    "runs":700,
+    "wickets":0,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Riyan Parag",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":573,
+    "wickets":0,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Shubman Gill",
+    "team":"Kolkata Knight Riders",
+    "role":"Batsman",
+    "matches":16,
+    "runs":600,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Devdutt Padikkal",
+    "team":"Rajasthan Royals",
+    "role":"Batsman",
+    "matches":14,
+    "runs":600,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Shivam Mavi",
+    "team":"Kolkata Knight Riders",
+    "role":"All-rounder",
+    "matches":15,
+    "runs":20,
+    "wickets":16,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "name":"Gurjapneet Singh",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Devon Conway",
+    "team":"Mumbai Indians",
+    "role":"Wicketkeeper",
+    "matches":15,
+    "runs":600,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Aniket Verma",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"James Neesham",
+    "team":"Rajasthan Royals",
+    "role":"Batsman",
+    "matches":14,
+    "runs":92,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Manish Pandey",
+    "team":"Delhi Capitals",
+    "role":"Batsman",
+    "matches":16,
+    "runs":620,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Ashutosh Sharma",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":189,
+    "wickets":0,
+    "venue":"M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "name":"Lalit Yadav",
+    "team":"Delhi Capitals",
+    "role":"Batsman",
+    "matches":19,
+    "runs":229,
+    "wickets":0,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Aiden Markram",
+    "team":"Sunrisers Hyderabad",
+    "role":"All-rounder",
+    "matches":20,
+    "runs":527,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Shivam Dube",
+    "team":"Mumbai Indians",
+    "role":"All-rounder",
+    "matches":14,
+    "runs":360,
+    "wickets":10,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Romario Shepherd",
+    "team":"Sunrisers Hyderabad",
+    "role":"All-rounder",
+    "matches":3,
+    "runs":58,
+    "wickets":0,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Rajat Patidar",
+    "team":"Royal Challengers Bangalore",
+    "role":"All-rounder",
+    "matches":12,
+    "runs":404,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Moeen Ali",
+    "team":"Unknown Team",
+    "role":"All-rounder",
+    "matches":0,
+    "runs":128,
+    "wickets":2,
+    "venue":"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad"
+  },
+  {
+    "name":"David Miller",
+    "team":"Gujarat Titans",
+    "role":"All-rounder",
+    "matches":15,
+    "runs":600,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Jamie Overton",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Darshan Nalkande",
+    "team":"Gujarat Titans",
+    "role":"Bowler",
+    "matches":2,
+    "runs":0,
+    "wickets":0,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Kartik Tyagi",
+    "team":"Sunrisers Hyderabad",
+    "role":"Wicketkeeper",
+    "matches":16,
+    "runs":0,
+    "wickets":0,
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "name":"Ravi Bishnoi",
+    "team":"Lucknow Super Giants",
+    "role":"Bowler",
+    "matches":16,
+    "runs":15,
+    "wickets":23,
+    "venue":"Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "name":"Wanindu Hasaranga",
+    "team":"Royal Challengers Bangalore",
+    "role":"Batsman",
+    "matches":14,
+    "runs":250,
+    "wickets":20,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Aryan Juyal",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Shahrukh Khan",
+    "team":"PK",
+    "role":"Wicketkeeper",
+    "matches":19,
+    "runs":270,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Mayank Yadav",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":0,
+    "wickets":7,
+    "venue":"Eden Gardens, Kolkata"
+  },
+  {
+    "name":"Simarjeet Singh",
+    "team":"Chennai Super Kings",
+    "role":"Batsman",
+    "matches":6,
+    "runs":0,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Mohammad Shami",
+    "team":"Unknown Team",
+    "role":"Bowler",
+    "matches":0,
+    "runs":13,
+    "wickets":19,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Kamindu Mendis",
+    "team":"Unknown Team",
+    "role":"Batsman",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"Arun Jaitley Stadium, Delhi"
+  },
+  {
+    "name":"Dewald Brevis",
+    "team":"Mumbai Indians",
+    "role":"Batsman",
+    "matches":7,
+    "runs":161,
+    "wickets":0,
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali"
+  },
+  {
+    "name":"Vaibhav Suryavanshi",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":0,
+    "wickets":0,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Nuwan Thushara",
+    "team":"Unknown Team",
+    "role":"Wicketkeeper",
+    "matches":0,
+    "runs":0,
+    "wickets":8,
+    "venue":"Wankhede Stadium, Mumbai"
+  },
+  {
+    "name":"Deepak Hooda",
+    "team":"Rajasthan Royals",
+    "role":"Wicketkeeper",
+    "matches":15,
+    "runs":480,
+    "wickets":12,
+    "venue":"M. A. Chidambaram Stadium, Chennai"
+  },
+  {
+    "name":"Vaibhav Arora",
+    "team":"PK",
+    "role":"All-rounder",
+    "matches":5,
+    "runs":0,
+    "wickets":0,
+    "venue":"Sawai Mansingh Stadium, Jaipur"
+  }
+]

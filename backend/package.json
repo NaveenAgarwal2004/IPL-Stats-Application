@@ -1,0 +1,32 @@
+{
+  "name": "ipl-stats-backend",
+  "version": "1.0.0",
+  "description": "IPL Stats API Backend with Cricket and Weather data",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["ipl", "cricket", "api", "stats", "fantasy", "weather"],
+  "author": "Naveen Agarwal",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+  "axios": "^1.7.7",
+  "compression": "^1.7.4",
+  "cors": "^2.8.5",
+  "dotenv": "^16.4.5",
+  "express": "^4.21.1",
+  "helmet": "^7.1.0",
+  "morgan": "^1.10.0"
+},
+  "devDependencies": {
+    "eslint": "^9.33.0",
+    "jest": "^30.0.5",
+    "nodemon": "^3.1.10",
+    "supertest": "^7.1.4"
+  }
+}

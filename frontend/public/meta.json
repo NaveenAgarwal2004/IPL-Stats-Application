@@ -1,0 +1,42 @@
+{
+  "credits": "© 2025 IPL Live Stats & Fantasy Team Builder | Data compiled from publicly available IPL statistics, including ESPNcricinfo, Cricbuzz, and IPL official archives. Dataset partially simulated for educational and demonstration purposes.",
+  "dataSource": {
+    "cricket": {
+      "name": "Cricket API",
+      "provider": "CricAPI",
+      "url": "https://cricapi.com",
+      "description": "Live cricket match data and statistics",
+      "status": "active"
+    },
+    "weather": {
+      "name": "Weather API",
+      "provider": "OpenWeatherMap",
+      "url": "https://openweathermap.org",
+      "description": "Real-time weather data for match venues",
+      "status": "active"
+    },
+    "player_stats": {
+      "name": "IPL Player Statistics",
+      "provider": "Multiple Sources",
+      "sources": ["ESPNcricinfo", "Cricbuzz", "IPL Official", "Historical Archives"],
+      "description": "Comprehensive player performance data across IPL seasons",
+      "status": "simulated"
+    }
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-15T10:00:00Z",
+  "disclaimer": "This application uses publicly available cricket statistics and simulated data for educational and demonstration purposes. Not affiliated with BCCI or IPL.",
+  "features": [
+    "Live match updates",
+    "Real-time weather integration",
+    "Fantasy team builder",
+    "Player statistics analysis",
+    "Interactive data visualization"
+  ],
+  "techStack": {
+    "frontend": "React, Tailwind CSS, Lucide Icons",
+    "backend": "Node.js, Express",
+    "apis": ["Cricket API", "OpenWeatherMap API"],
+    "deployment": "Vercel/Netlify Ready"
+  }
+}
